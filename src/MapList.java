@@ -8,9 +8,9 @@
  * @author Majo!
  *Codigo extraido del libro Java Structures
  */
-public class MapList(){
+public class MapList{
 	
-	public MapList()
+public  MapList()
 	// post: constructs an empty map, based on a list
 	{
 		data = new SinglyLinkedList<Association<K,V>>();
